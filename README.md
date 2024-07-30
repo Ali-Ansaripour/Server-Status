@@ -28,7 +28,7 @@
 ## Installation 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/Ali-Ansaripour/Server-Status/blob/main/check_server.sh
+   git clone https://github.com/Ali-Ansaripour/Server-Status cd Server-Status
    ```
 2. **Make the script executable:**
    ```sh
